@@ -1,0 +1,27 @@
+# Use Cases for Multilingual Chat App
+
+1. **International Team Communication**
+   - Employees from different countries can chat without language barriers
+   - Each team member sees messages in their preferred language
+
+2. **Language Learning**
+   - Great tool for language learners to see live translations
+   - Learn by observing how phrases are translated in real conversations
+
+3. **Local / Private Communication**
+   - Fully offline: can be used in secure environments
+   - No internet dependency or data exposure
+
+4. **Volunteer Organizations / NGOs**
+   - Community workers across regions can collaborate easily
+   - Field teams in remote areas can communicate if internet is limited
+
+5. **Schools / Classrooms**
+   - Multilingual classrooms where students & teachers speak different languages
+   - Promotes inclusivity and interaction without language friction
+
+6. **Emergency Coordination Tools**
+   - Useful in disaster response teams where instant translation can help save lives
+
+7. **Smart Kiosk or Multilingual Chatbots (future extension)**
+   - Can power kiosks or helpdesks where users interact in multiple languages

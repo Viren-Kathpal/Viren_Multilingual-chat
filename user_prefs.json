@@ -1,0 +1,44 @@
+{
+  "Alice": {
+    "preferred_lang": "english",
+    "known_langs": [
+      "english"
+    ]
+  },
+  "Bob": {
+    "preferred_lang": "french",
+    "known_langs": [
+      "french"
+    ]
+  },
+  "Carlos": {
+    "preferred_lang": "spanish",
+    "known_langs": [
+      "spanish"
+    ]
+  },
+  "Diana": {
+    "preferred_lang": "arabic",
+    "known_langs": [
+      "arabic"
+    ]
+  },
+  "Eva": {
+    "preferred_lang": "russian",
+    "known_langs": [
+      "russian"
+    ]
+  },
+  "George": {
+    "preferred_lang": "german",
+    "known_langs": [
+      "german"
+    ]
+  },
+  "Hiro": {
+    "preferred_lang": "japanese",
+    "known_langs": [
+      "japanese"
+    ]
+  }
+}

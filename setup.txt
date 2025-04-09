@@ -1,0 +1,25 @@
+# Multilingual Chat Setup Instructions
+
+1. Create a virtual environment (optional but recommended):
+   python -m venv venv
+   source venv/bin/activate   (Linux/macOS)
+   venv\Scripts\activate      (Windows)
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the app:
+   streamlit run app.py
+
+4. Open browser at:
+   http://localhost:8501
+
+5. To simulate multiple users:
+   - Open the app in different browser tabs
+   - Use different usernames and language settings
+   - Start chatting between them!
+
+6. Chat history will be saved in:
+   /output/output1/chat.json
+   /output/output2/chat.json
+   (auto-incremented on every restart)
