@@ -26,3 +26,7 @@
 
 7. To download the models:
    python3 download_models.py
+
+8. Deactivate Virtual Environment (If Needed)
+When you're done, deactivate the virtual environment:
+deactivate
