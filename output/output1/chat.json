@@ -1,0 +1,100 @@
+[
+  {
+    "type": "sent",
+    "sender": "Alice",
+    "recipient": "Bob",
+    "content": "Hello Bob, how are you?",
+    "timestamp": "2025-04-08T11:40:49.485459"
+  },
+  {
+    "type": "received",
+    "sender": "Alice",
+    "recipient": "Bob",
+    "content": "Bonjour Bob, comment allez-vous?",
+    "timestamp": "2025-04-08T11:40:49.485459"
+  },
+  {
+    "type": "sent",
+    "sender": "Bob",
+    "recipient": "Carlos",
+    "content": "Je vais bien, Carlos. Et toi ?",
+    "timestamp": "2025-04-08T11:41:15.020490"
+  },
+  {
+    "type": "received",
+    "sender": "Bob",
+    "recipient": "Carlos",
+    "content": "Estoy bien, Carlos. ¿Y tú?",
+    "timestamp": "2025-04-08T11:41:15.020490"
+  },
+  {
+    "type": "sent",
+    "sender": "Carlos",
+    "recipient": "Diana",
+    "content": "Hola Diana, ¿cómo estás?",
+    "timestamp": "2025-04-08T11:41:33.819660"
+  },
+  {
+    "type": "received",
+    "sender": "Carlos",
+    "recipient": "Diana",
+    "content": "مرحباً يا (ديانا)، كيف حالكِ؟",
+    "timestamp": "2025-04-08T11:41:33.819660"
+  },
+  {
+    "type": "sent",
+    "sender": "Diana",
+    "recipient": "Eva",
+    "content": "أنا بخير، ماذا عنك يا إيفا؟",
+    "timestamp": "2025-04-08T11:41:50.085737"
+  },
+  {
+    "type": "received",
+    "sender": "Diana",
+    "recipient": "Eva",
+    "content": "Я в порядке. А ты, Ева?",
+    "timestamp": "2025-04-08T11:41:50.085737"
+  },
+  {
+    "type": "sent",
+    "sender": "Eva",
+    "recipient": "Hiro",
+    "content": "Я тоже хорошо, Хиро!",
+    "timestamp": "2025-04-08T11:42:04.993310"
+  },
+  {
+    "type": "received",
+    "sender": "Eva",
+    "recipient": "Hiro",
+    "content": "[Translation Unavailable from ru to ja]",
+    "timestamp": "2025-04-08T11:42:04.993310"
+  },
+  {
+    "type": "sent",
+    "sender": "Hiro",
+    "recipient": "George",
+    "content": "こんにちは、ジョージ、元気ですか？",
+    "timestamp": "2025-04-08T11:42:18.136884"
+  },
+  {
+    "type": "received",
+    "sender": "Hiro",
+    "recipient": "George",
+    "content": "Hallo. Wie geht's?",
+    "timestamp": "2025-04-08T11:42:18.136884"
+  },
+  {
+    "type": "sent",
+    "sender": "George",
+    "recipient": "Alice",
+    "content": "Mir geht es gut, Alice. Und du?",
+    "timestamp": "2025-04-08T11:42:31.888576"
+  },
+  {
+    "type": "received",
+    "sender": "George",
+    "recipient": "Alice",
+    "content": "I'm fine, Alice.",
+    "timestamp": "2025-04-08T11:42:31.888576"
+  }
+]
