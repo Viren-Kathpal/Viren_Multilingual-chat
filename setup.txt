@@ -23,3 +23,6 @@
    /output/output1/chat.json
    /output/output2/chat.json
    (auto-incremented on every restart)
+
+7. To download the models:
+   python3 download_models.py
