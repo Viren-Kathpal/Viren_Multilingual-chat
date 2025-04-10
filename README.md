@@ -12,7 +12,7 @@ A Streamlit-based real-time multilingual chat app where users can send and recei
 
 - Supports 7 languages with auto-translation using HuggingFace MarianMT models
 
-- Unicode-safe chat storage (chat.json) — no weird character codes
+- Unicode-safe chat storage (chat.json) 
 
 - Translation fallback using English as an intermediate language when direct path fails
 
